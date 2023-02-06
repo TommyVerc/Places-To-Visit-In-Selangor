@@ -4,8 +4,11 @@ This project is a web application that showcases popular tourist destinations in
 ## How to Use
 
 1.Clone or download the repository to your local machine
+
 2.Open the HomePage.html file in a web browser
+
 3.Browse the various tourist destinations in Selangor
+
 4.Use the navigation bar at the top of the page to switch between different categories of destinations
 
 ## Contact
